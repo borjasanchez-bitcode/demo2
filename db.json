@@ -13,8 +13,8 @@
     { "id": 2, "count": 6, "bookId": 1 }
   ],
   "profile": {
-    "name": "borja.sanchez@bitcode.com"
-    "company" : "bitcode"
+    "name": "borja.sanchez@bitcode.com",
+    "company": "bitcode"
   }
 }
 
