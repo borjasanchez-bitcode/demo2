@@ -1,8 +1,8 @@
 {
   "books": [
-    { "id": 1, "title": "Book 1" },
-    { "id": 2, "title": "Book 2" },
-    { "id": 3, "title": "Book 3" }
+    { "id": 1, "title": "Book 1", "author": "Pepe", "ratio": 6 },
+    { "id": 2, "title": "Book 2", "author": "Juan", "ratio": 9 },
+    { "id": 3, "title": "Book 3", "author": "Maria", "ratio": 4 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "bookId": 1 },
