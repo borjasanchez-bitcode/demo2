@@ -8,8 +8,13 @@
     { "id": 1, "body": "some comment", "bookId": 1 },
     { "id": 2, "body": "some comment", "bookId": 1 }
   ],
+  "sales": [
+    { "id": 1, "count": 5, "bookId": 1 },
+    { "id": 2, "count": 6, "bookId": 1 }
+  ],
   "profile": {
     "name": "borja.sanchez@bitcode.com"
+    "company" : "bitcode"
   }
 }
 
